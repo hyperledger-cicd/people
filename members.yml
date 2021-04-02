@@ -1,695 +1,1389 @@
 members:
-  - id: 495478
-    github: Alexey-N-Chernyshov
-  - id: 2432299
-    github: Amxx
-  - id: 15071640
-    github: AntonKtrue
-  - id: 8999207
-    github: Artemkaaas
-  - id: 77972630
-    github: AzaharaC
-  - id: 29608896
-    github: Baha-sk
-  - id: 24387396
-    github: BulatSaif
-  - id: 3093578
-    github: C0rWin
-  - id: 13285122
-    github: CjHare
-  - id: 45072677
-    github: Cre-eD
-  - id: 69623926
-    github: DEichler29
-  - id: 13409582
-    github: DRK3
-  - id: 7528737
-    github: DavidClawson
-  - id: 45266099
-    github: DenisNikiforov
-  - id: 70280806
-    github: Duc848
-  - id: 570634
-    github: ERussel
-  - id: 25781520
-    github: EugeneYYY
-  - id: 1155244
-    github: GuillaumeCisco
-  - id: 19373278
-    github: JAG-UK
-  - id: 30242284
-    github: JamesKEbert
-  - id: 9931025
-    github: JeevaSang
-  - id: 60489516
-    github: JessieZamzow
-  - id: 15674332
-    github: JulienGuo
-  - id: 35143858
-    github: Kelly-Cooper
-  - id: 37544058
-    github: LiraLemur
-  - id: 45274126
-    github: Lynn14m
-  - id: 11086641
-    github: MBoldyrev
-  - id: 13337345
-    github: MHBauer
-  - id: 43356962
-    github: MadelineMurray
-  - id: 42277091
-    github: MattP007
-  - id: 17858062
-    github: Mingela
-  - id: 6281583
-    github: MizukiSonoko
-  - id: 57263872
-    github: N8Shrader
-  - id: 4677568
-    github: NicolasMassart
-  - id: 8831317
-    github: ODOWDAIBM
-  - id: 45403188
-    github: PatrickLammers
-  - id: 2149283
-    github: Patrik-Stas
-  - id: 16295803
-    github: Pobepto
-  - id: 36431534
-    github: Ram-srini
-  - id: 4733314
-    github: RatanRSur
-  - id: 11201478
-    github: RyanLassigBanks
-  - id: 20418252
-    github: SenchoPens
-  - id: 41014015
-    github: SriharshaSubbakrishna
-  - id: 9944895
-    github: T-Kondou
-  - id: 411919
-    github: TelegramSam
-  - id: 23165168
-    github: TimoGlastra
-  - id: 13075885
-    github: ToJen
-  - id: 13467216
-    github: Toktar
-  - id: 6518131
-    github: TomBarnes
-  - id: 28920316
-    github: VladimirWork
-  - id: 42834837
-    github: WJvanEesteren
-  - id: 10504350
-    github: WadeBarnes
-  - id: 1867551
-    github: Warchant
-  - id: 13637951
-    github: XuHugo
-  - id: 67987851
-    github: YutaAkizuki
-  - id: 6329667
-    github: a-r-g-v
-  - id: 8116425
-    github: aakzubaidi
-  - id: 45264458
-    github: abdelhamidbakhta
-  - id: 1474788
-    github: adamgering
-  - id: 782238
-    github: adecaro
-  - id: 11996230
-    github: adeebahmed
-  - id: 49902
-    github: adrianhopebailie
-  - id: 18215486
-    github: agunde406
-  - id: 239837
-    github: aholovko
-  - id: 12794628
-    github: aigoncharov
-  - id: 67048136
-    github: ait-fujie
-  - id: 72675
-    github: ajsutton
-  - id: 10832624
-    github: aklenik
-  - id: 29886642
-    github: ale-linux
-  - id: 1575642
-    github: alexvicegrab
-  - id: 9722802
-    github: alikic
-  - id: 24274338
-    github: aludvik
-  - id: 5605464
-    github: amanji
-  - id: 7985120
-    github: andrew-coleman
-  - id: 10636507
-    github: andrewwhitehead
-  - id: 12005759
-    github: aneenaalexander
-  - id: 33458498
-    github: anikitinDSR
-  - id: 58683431
-    github: aratsu-i
-  - id: 5507851
-    github: arjanvaneersel
-  - id: 27664223
-    github: arsulegai
-  - id: 1611228
-    github: art-gor
-  - id: 21102430
-    github: ashcherbakov
-  - id: 465937
-    github: asimonet
-  - id: 21123752
-    github: askolesov
-  - id: 16758
-    github: atoulme
-  - id: 49992871
-    github: auntmelmel
-  - id: 11422698
-    github: awjh
-  - id: 31732124
-    github: awjh-ibm
-  - id: 1835113
-    github: baydarich
-  - id: 803016
-    github: benjamincburns
-  - id: 4856862
-    github: bestbeforetoday
-  - id: 50852695
-    github: bgravenorst
-  - id: 3342057
-    github: binhn
-  - id: 38017584
-    github: bobbi28
-  - id: 4340785
-    github: boydjohnson
-  - id: 5377888
-    github: bpbuch
-  - id: 10376511
-    github: brentzundel
-  - id: 26874133
-    github: bstasyszyn
-  - id: 7076785
-    github: burdettadam
-  - id: 5994121
-    github: camohe90
-  - id: 8362882
-    github: cendhu
-  - id: 31738106
-    github: chenette
-  - id: 4925531
-    github: chrisspanton
-  - id: 3630697
-    github: christo4ferris
-  - id: 1297124
-    github: cianx
-  - id: 1385262
-    github: claudiocebpaz
-  - id: 590037
-    github: compleatang
-  - id: 10665910
-    github: dangetzke
-  - id: 32893509
-    github: danintel
-  - id: 1449899
-    github: danmack
-  - id: 738216
-    github: danoprey
-  - id: 29214152
-    github: davececchi
-  - id: 1975126
-    github: davemec
-  - id: 25582377
-    github: davidkel
-  - id: 7227589
-    github: davidkhala
-  - id: 22032832
-    github: dbluhm
-  - id: 4999494
-    github: dcmiddle
-  - id: 8889580
-    github: delventhalz
-  - id: 33184046
-    github: denali49
-  - id: 20165681
-    github: denyeart
-  - id: 4552926
-    github: desktophero
-  - id: 578233
-    github: devin-fisher
-  - id: 10748272
-    github: devsatishm
-  - id: 6930518
-    github: dexhunter
-  - id: 2208904
-    github: dhh1128
-  - id: 5017470
-    github: dhuseby
-  - id: 770433
-    github: diegomasini
-  - id: 10915817
-    github: dnewh
-  - id: 17034559
-    github: dongmingh
-  - id: 2303377
-    github: dongwangdw
-  - id: 7177088
-    github: dpdornseifer
-  - id: 27690938
-    github: dplumb94
-  - id: 9211
-    github: dubek
-  - id: 16805758
-    github: dubovitskaya
-  - id: 17401538
-    github: eadventurous
-  - id: 4229615
-    github: edwardmack
-  - id: 8815821
-    github: ekovalev
-  - id: 14094978
-    github: eloaverona
-  - id: 35696678
-    github: erin-hughes
-  - id: 1801689
-    github: esplinr
-  - id: 29760017
-    github: evernym-ci
-  - id: 20577516
-    github: evernym-gocd
-  - id: 2322270
-    github: feihujiang
-  - id: 19859799
-    github: fqutishat
-  - id: 13453228
-    github: gbarcomu
-  - id: 49996957
-    github: genasmorgan
-  - id: 18242450
-    github: gennadylaventman
-  - id: 367132
-    github: ghaskins
-  - id: 4634408
-    github: glowkey
-  - id: 46226864
-    github: gmhartley53
-  - id: 12613821
-    github: gregdhill
-  - id: 214870
-    github: grkvlt
-  - id: 3359136
-    github: guoger
-  - id: 20172739
-    github: harrisob
-  - id: 16846129
-    github: hartm
-  - id: 40789053
-    github: heatherlp
-  - id: 64429096
-    github: helengarno
-  - id: 57513505
-    github: hlfdev-azp
-  - id: 5635032
-    github: humb1t
-  - id: 29129598
-    github: hyperledger-ci
-  - id: 19674487
-    github: hyperledger-github
-  - id: 28738893
-    github: hyperledger-jira
-  - id: 22083325
-    github: i1i1
-  - id: 1852309
-    github: ianco
-  - id: 57529355
-    github: iceseer
-  - id: 36847043
-    github: igor-egorov
-  - id: 9802500
-    github: iikirilov
-  - id: 12245269
-    github: ineffectualproperty
-  - id: 3128348
-    github: ionagamed
-  - id: 1891293
-    github: jadhavajay
-  - id: 56861721
-    github: jagpreetsinghsasan
-  - id: 676169
-    github: jakubkoci
-  - id: 57624267
-    github: jeffthomas2000
-  - id: 909467
-    github: jframe
-  - id: 14979848
-    github: jiahaoc1993
-  - id: 26771644
-    github: joealewine
-  - id: 645344
-    github: johncallahan
-  - id: 33758641
-    github: jonathan-m-hamilton
-  - id: 78140052
-    github: jordigiam
-  - id: 3722503
-    github: joshuafernandes
-  - id: 5072859
-    github: jovfer
-  - id: 5748777
-    github: jsmitchell
-  - id: 3535067
-    github: jt-nti
-  - id: 7431583
-    github: jyellick
-  - id: 9370151
-    github: kamilsa
-  - id: 18397186
-    github: karimStekelenburg
-  - id: 19772501
-    github: karthikamurthy
-  - id: 14876848
-    github: kchristidis
-  - id: 23125059
-    github: kdenhartog
-  - id: 20474355
-    github: kdimak
-  - id: 1140797
-    github: kidrecursive
-  - id: 9364584
-    github: kikoncuo
-  - id: 12592891
-    github: kj3104
-  - id: 26562
-    github: knibals
-  - id: 20422884
-    github: knkski
-  - id: 8917872
-    github: kobaken0029
-  - id: 25884155
-    github: kogeler
-  - id: 15633758
-    github: krw910
-  - id: 445745
-    github: kthblmfld
-  - id: 47349143
-    github: kuvaldini
-  - id: 5658339
-    github: l4l
-  - id: 18451951
-    github: latenitecoder-zz
-  - id: 14347159
-    github: lebdron
-  - id: 6464618
-    github: lehors
-  - id: 33546098
-    github: lesleyannjordan
-  - id: 17450713
-    github: liam-grace
-  - id: 9400927
-    github: lindluni
-  - id: 1943243
-    github: litong01
-  - id: 2019896
-    github: llorllale
-  - id: 663101
-    github: ltseeley
-  - id: 1766440
-    github: lucassaldanha
-  - id: 44480338
-    github: lynnbendixsen
-  - id: 180035
-    github: m00sey
-  - id: 51462259
-    github: mac-arrap
-  - id: 2627919
-    github: macfarla
-  - id: 14808090
-    github: manish-sethi
-  - id: 9131847
-    github: manju956
-  - id: 20458059
-    github: manudrijvers
-  - id: 36909937
-    github: mark-terry
-  - id: 5595790
-    github: mastersingh24
-  - id: 26581503
-    github: matkt
-  - id: 52470716
-    github: matt-raffel-kiva
-  - id: 38053407
-    github: mattraffel
-  - id: 658601
-    github: mbaxter
-  - id: 6673453
-    github: mbwhite
-  - id: 18294113
-    github: mfford
-  - id: 12089963
-    github: mhailstone
-  - id: 22651660
-    github: michaeldboyd
-  - id: 29070231
-    github: mikaelaTar
-  - id: 378508
-    github: mikekebert
-  - id: 717879
-    github: mikelodder7
-  - id: 11699479
-    github: mirgee
-  - id: 7398917
-    github: mkdolan
-  - id: 65468927
-    github: mmanchkin
-  - id: 9750068
-    github: modbrin
-  - id: 36872573
-    github: mohamadsolouki
-  - id: 14936566
-    github: mtn217
-  - id: 20230557
-    github: mtnieto
-  - id: 14361488
-    github: muralisrini
-  - id: 7502801
-    github: muratovv
-  - id: 6992239
-    github: n1zyz
-  - id: 15850888
-    github: nadiabahrami
-  - id: 923654
-    github: nage
-  - id: 43688667
-    github: naonishijima
-  - id: 10833935
-    github: nathalie-ckc
-  - id: 799608
-    github: nekia
-  - id: 11061973
-    github: nfrunza
-  - id: 4440345
-    github: nhartner
-  - id: 378762
-    github: nhoriguchi
-  - id: 25748894
-    github: nick-drozd
-  - id: 31096144
-    github: nicolapaoli
-  - id: 15640392
-    github: nikhil550
-  - id: 36721948
-    github: nishishita-satoshi
-  - id: 8394544
-    github: nklincoln
-  - id: 19825873
-    github: nkramer44
-  - id: 44370861
-    github: nodlesh
-  - id: 42742030
-    github: ntsbs
-  - id: 26755865
-    github: ommish
-  - id: 36892852
-    github: pamandrejko
-  - id: 34518033
-    github: pankajgoyal2
-  - id: 40787703
-    github: panyu4
-  - id: 290941
-    github: peacekeeper
-  - id: 10084974
-    github: pegartillo95
-  - id: 1583231
-    github: petermetz
-  - id: 282233
-    github: peterschwarz
-  - id: 2425028
-    github: pfeairheller
-  - id: 5741141
-    github: phymbert
-  - id: 16143240
-    github: pinges
-  - id: 19329164
-    github: popandov
-  - id: 37158202
-    github: rain-on
-  - id: 16324016
-    github: rajeshkalaria80
-  - id: 38732323
-    github: ravenolf
-  - id: 52193049
-    github: ravinayag
-  - id: 20493746
-    github: rberg2
-  - id: 829790
-    github: rbuysse
-  - id: 33634093
-    github: riki95
-  - id: 50765419
-    github: rkharisov
-  - id: 261271
-    github: rojotek
-  - id: 10111768
-    github: rolsonquadras
-  - id: 37328891
-    github: rranjan3
-  - id: 29335714
-    github: rst77
-  - id: 20097359
-    github: saad-karim
-  - id: 26148561
-    github: sandrask
-  - id: 323659
-    github: sappenin
-  - id: 6259384
-    github: satellitex
-  - id: 463817
-    github: satomicchy
-  - id: 58238931
-    github: satota2
-  - id: 25067172
-    github: sawtooth-build
-  - id: 20058097
-    github: scealiontach
-  - id: 816900
-    github: seanyoung
-  - id: 19495774
-    github: seware
-  - id: 27746182
-    github: sfuji822
-  - id: 8121127
-    github: shannynalayna
-  - id: 38109
-    github: shemnon
-  - id: 655714
-    github: shimos
-  - id: 593082
-    github: siburu
-  - id: 99715
-    github: silasdavis
-  - id: 5670522
-    github: skhoroshavin
-  - id: 9336556
-    github: sklump
-  - id: 20505251
-    github: smblucker
-  - id: 5666300
-    github: smccown
-  - id: 9592001
-    github: smithbk
-  - id: 27997289
-    github: sofiter
-  - id: 12339578
-    github: soluchok
-  - id: 32125183
-    github: sorabot
-  - id: 42390046
-    github: sovbot
-  - id: 7118158
-    github: sstone1
-  - id: 17688105
-    github: stefashkaa
-  - id: 13129967
-    github: stone-ch
-  - id: 525211
-    github: sublimator
-  - id: 7150428
-    github: sukalpomitra
-  - id: 20618591
-    github: suryalnvs
-  - id: 1018050
-    github: swcurran
-  - id: 1980422
-    github: swetharepakula
-  - id: 678569
-    github: swinslow
-  - id: 4517909
-    github: sykesm
-  - id: 20982317
-    github: takemiyamakoto
-  - id: 57385780
-    github: takeutak
-  - id: 3335245
-    github: talltree
-  - id: 1385309
-    github: theotherian
-  - id: 6887243
-    github: tim-d-blue
-  - id: 9390255
-    github: timbeiko
-  - id: 5951734
-    github: tkuhrt
-  - id: 22016542
-    github: tkyonezu
-  - id: 1280118
-    github: tmarkovski
-  - id: 38713998
-    github: tomo25
-  - id: 15972525
-    github: tplooker
-  - id: 1906596
-    github: troyronda
-  - id: 11680949
-    github: turuslan
-  - id: 61970
-    github: twshelton
-  - id: 715420
-    github: unklayman
-  - id: 8219560
-    github: upamune
-  - id: 669527
-    github: usmansaleem
-  - id: 6963101
-    github: vadimreutskiy
-  - id: 2374712
-    github: vaporos
-  - id: 32909826
-    github: vchinoy-da
-  - id: 16944801
-    github: vimmerru
-  - id: 4130345
-    github: vipinsun
-  - id: 1575126
-    github: vmarkushin
-  - id: 20172653
-    github: wlahti
-  - id: 750115
-    github: x3medima17
-  - id: 49738514
-    github: xieruitao-h3c
-  - id: 74700
-    github: xspeedcruiser
-  - id: 7521849
-    github: yacovm
-  - id: 1920564
-    github: yeasy
-  - id: 57741286
-    github: yukiknd
-  - id: 10827209
-    github: zhaochy1990
+  - id:     495478
+    github: "Alexey-N-Chernyshov"
+    name:   "Alexey"
+    email:  null
+  - id:     2432299
+    github: "Amxx"
+    name:   "Hadrien Croubois"
+    email:  null
+  - id:     15071640
+    github: "AntonKtrue"
+    name:   null
+    email:  null
+  - id:     8999207
+    github: "Artemkaaas"
+    name:   "artem.ivanov"
+    email:  null
+  - id:     77972630
+    github: "AzaharaC"
+    name:   null
+    email:  null
+  - id:     29608896
+    github: "Baha-sk"
+    name:   "Baha"
+    email:  null
+  - id:     24387396
+    github: "BulatSaif"
+    name:   "Bulat Saifullin"
+    email:  "bulat@saifullin.ru"
+  - id:     3093578
+    github: "C0rWin"
+    name:   null
+    email:  null
+  - id:     13285122
+    github: "CjHare"
+    name:   "CJ Hare"
+    email:  null
+  - id:     45072677
+    github: "Cre-eD"
+    name:   "Dmitriy Creed"
+    email:  "creed@soramitsu.co.jp"
+  - id:     69623926
+    github: "DEichler29"
+    name:   null
+    email:  null
+  - id:     13409582
+    github: "DRK3"
+    name:   "Derek Trider"
+    email:  null
+  - id:     7528737
+    github: "DavidClawson"
+    name:   null
+    email:  null
+  - id:     45266099
+    github: "DenisNikiforov"
+    name:   "Denis Nikiforov"
+    email:  null
+  - id:     70280806
+    github: "Duc848"
+    name:   null
+    email:  null
+  - id:     570634
+    github: "ERussel"
+    name:   "Ruslan"
+    email:  "emkil.russel@gmail.com"
+  - id:     25781520
+    github: "EugeneYYY"
+    name:   "EugeneYYY"
+    email:  null
+  - id:     1155244
+    github: "GuillaumeCisco"
+    name:   "Cisco Guillaume"
+    email:  null
+  - id:     19373278
+    github: "JAG-UK"
+    name:   null
+    email:  null
+  - id:     30242284
+    github: "JamesKEbert"
+    name:   "James Ebert "
+    email:  null
+  - id:     9931025
+    github: "JeevaSang"
+    name:   "Jeeva"
+    email:  "jeevasang@gmail.com"
+  - id:     60489516
+    github: "JessieZamzow"
+    name:   null
+    email:  null
+  - id:     15674332
+    github: "JulienGuo"
+    name:   "JulienGuo郭立冬"
+    email:  null
+  - id:     35143858
+    github: "Kelly-Cooper"
+    name:   "Kelly Cooper"
+    email:  "TrustDecentral@gmail.com"
+  - id:     37544058
+    github: "LiraLemur"
+    name:   "Sara"
+    email:  "lira.lemur@gmail.com"
+  - id:     45274126
+    github: "Lynn14m"
+    name:   null
+    email:  null
+  - id:     11086641
+    github: "MBoldyrev"
+    name:   "Mikhail Boldyrev"
+    email:  null
+  - id:     13337345
+    github: "MHBauer"
+    name:   "Morgan Bauer"
+    email:  "me@mhbauer.com"
+  - id:     43356962
+    github: "MadelineMurray"
+    name:   null
+    email:  null
+  - id:     42277091
+    github: "MattP007"
+    name:   "Matt Perron"
+    email:  null
+  - id:     17858062
+    github: "Mingela"
+    name:   "Bogdan Mingela"
+    email:  null
+  - id:     6281583
+    github: "MizukiSonoko"
+    name:   "Sonoko Mizuki"
+    email:  "sonoko@mizuki.io"
+  - id:     57263872
+    github: "N8Shrader"
+    name:   "Nate Shrader"
+    email:  null
+  - id:     4677568
+    github: "NicolasMassart"
+    name:   "Nicolas MASSART"
+    email:  null
+  - id:     8831317
+    github: "ODOWDAIBM"
+    name:   "Anthony O'Dowd"
+    email:  "a_o-dowd@uk.ibm.com"
+  - id:     45403188
+    github: "PatrickLammers"
+    name:   "Patrick Lammers"
+    email:  null
+  - id:     2149283
+    github: "Patrik-Stas"
+    name:   "Patrik Stas"
+    email:  null
+  - id:     16295803
+    github: "Pobepto"
+    name:   "Robert Sayakhov"
+    email:  "roobertdantes@gmail.com"
+  - id:     36431534
+    github: "Ram-srini"
+    name:   "Ramakrishna Srinivasamurthy"
+    email:  null
+  - id:     4733314
+    github: "RatanRSur"
+    name:   "Ratan (Rai) Sur"
+    email:  "ratan.r.sur@gmail.com"
+  - id:     11201478
+    github: "RyanLassigBanks"
+    name:   "Ryan Banks"
+    email:  "ryanlassigbanks@gmail.com"
+  - id:     20418252
+    github: "SenchoPens"
+    name:   "Arseny Chekanov"
+    email:  "senya@chekanov.net"
+  - id:     41014015
+    github: "SriharshaSubbakrishna"
+    name:   null
+    email:  null
+  - id:     9944895
+    github: "T-Kondou"
+    name:   "Tsubasa Kondou"
+    email:  null
+  - id:     411919
+    github: "TelegramSam"
+    name:   "Sam Curren"
+    email:  "telegramsam@gmail.com"
+  - id:     23165168
+    github: "TimoGlastra"
+    name:   "Timo Glastra"
+    email:  "timo@animo.id"
+  - id:     13075885
+    github: "ToJen"
+    name:   "Tomisin Jenrola"
+    email:  null
+  - id:     13467216
+    github: "Toktar"
+    name:   "toktar"
+    email:  "renata.toktar@dsr-corporation.com"
+  - id:     6518131
+    github: "TomBarnes"
+    name:   "Tom Barnes"
+    email:  "thomas.j.barnes@intel.com"
+  - id:     28920316
+    github: "VladimirWork"
+    name:   "Vladimir S"
+    email:  null
+  - id:     42834837
+    github: "WJvanEesteren"
+    name:   "Jamie"
+    email:  null
+  - id:     10504350
+    github: "WadeBarnes"
+    name:   "Wade Barnes"
+    email:  "wade@neoterictech.ca"
+  - id:     1867551
+    github: "Warchant"
+    name:   "Bohdan"
+    email:  "warchantua@gmail.com"
+  - id:     13637951
+    github: "XuHugo"
+    name:   null
+    email:  null
+  - id:     67987851
+    github: "YutaAkizuki"
+    name:   "YutaAkizuki"
+    email:  null
+  - id:     6329667
+    github: "a-r-g-v"
+    name:   "Yuki Mukasa ( a_r_g_v )"
+    email:  "info@arg.vc"
+  - id:     8116425
+    github: "aakzubaidi"
+    name:   "Ali Alzubaidi"
+    email:  "aakzubaidi@gmail.com"
+  - id:     45264458
+    github: "abdelhamidbakhta"
+    name:   "Abdelhamid Bakhta"
+    email:  null
+  - id:     1474788
+    github: "adamgering"
+    name:   "Adam Gering"
+    email:  null
+  - id:     782238
+    github: "adecaro"
+    name:   "Angelo De Caro"
+    email:  "adc@zurich.ibm.com"
+  - id:     11996230
+    github: "adeebahmed"
+    name:   "Adeeb Ahmed"
+    email:  "adeeb@adeebahmed.com"
+  - id:     49902
+    github: "adrianhopebailie"
+    name:   "Adrian Hope-Bailie"
+    email:  "adrian@hopebailie.com"
+  - id:     18215486
+    github: "agunde406"
+    name:   "Andi Gunderson"
+    email:  "agunde@bitwise.io"
+  - id:     239837
+    github: "aholovko"
+    name:   "Andriy Holovko"
+    email:  null
+  - id:     12794628
+    github: "aigoncharov"
+    name:   "Andrey Goncharov"
+    email:  "andrey@goncharov.page"
+  - id:     67048136
+    github: "ait-fujie"
+    name:   null
+    email:  null
+  - id:     72675
+    github: "ajsutton"
+    name:   "Adrian Sutton"
+    email:  "adrian@symphonious.net"
+  - id:     10832624
+    github: "aklenik"
+    name:   "Attila Klenik"
+    email:  "a.klenik@gmail.com"
+  - id:     29886642
+    github: "ale-linux"
+    name:   "Alessandro Sorniotti"
+    email:  "aso@zurich.ibm.com"
+  - id:     1575642
+    github: "alexvicegrab"
+    name:   "Sasha (Alejandro Vicente Grabovetsky)"
+    email:  null
+  - id:     9722802
+    github: "alikic"
+    name:   null
+    email:  null
+  - id:     24274338
+    github: "aludvik"
+    name:   "Adam Ludvik"
+    email:  "adam.m.ludvik@gmail.com"
+  - id:     5605464
+    github: "amanji"
+    name:   "Akiff Manji"
+    email:  null
+  - id:     7985120
+    github: "andrew-coleman"
+    name:   "Andrew Coleman"
+    email:  null
+  - id:     10636507
+    github: "andrewwhitehead"
+    name:   "Andrew Whitehead"
+    email:  "cywolf@gmail.com"
+  - id:     12005759
+    github: "aneenaalexander"
+    name:   "Aneena Ann Alexander"
+    email:  "aneenaalex@gmail.com"
+  - id:     33458498
+    github: "anikitinDSR"
+    name:   "Andrew Nikitin"
+    email:  "Andrew.Nikitin@sunpowercorp.com"
+  - id:     58683431
+    github: "aratsu-i"
+    name:   null
+    email:  null
+  - id:     5507851
+    github: "arjanvaneersel"
+    name:   "Arjan van Eersel"
+    email:  null
+  - id:     27664223
+    github: "arsulegai"
+    name:   "Arun S M"
+    email:  null
+  - id:     1611228
+    github: "art-gor"
+    name:   null
+    email:  null
+  - id:     21102430
+    github: "ashcherbakov"
+    name:   "ashcherbakov"
+    email:  null
+  - id:     465937
+    github: "asimonet"
+    name:   "Anthony SIMONET"
+    email:  "asb@iex.ec"
+  - id:     21123752
+    github: "askolesov"
+    name:   "Alexander Kolesov"
+    email:  "alexandr.kolesov@dsr-company.com"
+  - id:     16758
+    github: "atoulme"
+    name:   "Antoine Toulme"
+    email:  "antoine@toulme.name"
+  - id:     49992871
+    github: "auntmelmel"
+    name:   null
+    email:  null
+  - id:     11422698
+    github: "awjh"
+    name:   "Andrew Hurt"
+    email:  null
+  - id:     31732124
+    github: "awjh-ibm"
+    name:   "Andrew Hurt"
+    email:  null
+  - id:     1835113
+    github: "baydarich"
+    name:   "Aidar Sabirov"
+    email:  null
+  - id:     803016
+    github: "benjamincburns"
+    name:   "Benjamin Burns"
+    email:  null
+  - id:     4856862
+    github: "bestbeforetoday"
+    name:   "Mark S. Lewis"
+    email:  null
+  - id:     50852695
+    github: "bgravenorst"
+    name:   null
+    email:  null
+  - id:     3342057
+    github: "binhn"
+    name:   "Binh Q Nguyen"
+    email:  null
+  - id:     38017584
+    github: "bobbi28"
+    name:   "Bobbi"
+    email:  "bobbi@ledgeracademy.com"
+  - id:     4340785
+    github: "boydjohnson"
+    name:   "Boyd Johnson"
+    email:  null
+  - id:     5377888
+    github: "bpbuch"
+    name:   "Brian Buchanan"
+    email:  "bbuchanan@salesforce.com"
+  - id:     10376511
+    github: "brentzundel"
+    name:   "Brent Zundel"
+    email:  null
+  - id:     26874133
+    github: "bstasyszyn"
+    name:   "Bob Stasyszyn"
+    email:  "bob.stasyszyn@securekey.com"
+  - id:     7076785
+    github: "burdettadam"
+    name:   "Adam Burdett"
+    email:  "burdettadam@gmail.com"
+  - id:     5994121
+    github: "camohe90"
+    name:   "Camilo Molano"
+    email:  "camohe90@gmail.com"
+  - id:     8362882
+    github: "cendhu"
+    name:   "Senthil Nathan N"
+    email:  null
+  - id:     31738106
+    github: "chenette"
+    name:   "Anne Chenette"
+    email:  null
+  - id:     4925531
+    github: "chrisspanton"
+    name:   "Chris Spanton"
+    email:  "chris@spanton.co"
+  - id:     3630697
+    github: "christo4ferris"
+    name:   "Christopher Ferris"
+    email:  "chrisfer@us.ibm.com"
+  - id:     1297124
+    github: "cianx"
+    name:   null
+    email:  null
+  - id:     1385262
+    github: "claudiocebpaz"
+    name:   "Claudio Ceballos Paz"
+    email:  "claudio@hashdog.com"
+  - id:     590037
+    github: "compleatang"
+    name:   "Casey Kuhlman"
+    email:  null
+  - id:     10665910
+    github: "dangetzke"
+    name:   null
+    email:  null
+  - id:     32893509
+    github: "danintel"
+    name:   "Dan Anderson"
+    email:  null
+  - id:     1449899
+    github: "danmack"
+    name:   "Dan Mack"
+    email:  null
+  - id:     738216
+    github: "danoprey"
+    name:   "Daniel O'Prey"
+    email:  "dan@digitalasset.com"
+  - id:     29214152
+    github: "davececchi"
+    name:   "Dave Cecchi"
+    email:  null
+  - id:     1975126
+    github: "davemec"
+    name:   "David Mechler"
+    email:  null
+  - id:     25582377
+    github: "davidkel"
+    name:   "Dave Kelsey"
+    email:  null
+  - id:     7227589
+    github: "davidkhala"
+    name:   "David Liu"
+    email:  null
+  - id:     22032832
+    github: "dbluhm"
+    name:   "Daniel Bluhm"
+    email:  null
+  - id:     4999494
+    github: "dcmiddle"
+    name:   "Dan"
+    email:  null
+  - id:     8889580
+    github: "delventhalz"
+    name:   "Zac Delventhal"
+    email:  "delventhalz@gmail.com"
+  - id:     33184046
+    github: "denali49"
+    name:   "Chris Gabriel"
+    email:  null
+  - id:     20165681
+    github: "denyeart"
+    name:   null
+    email:  null
+  - id:     4552926
+    github: "desktophero"
+    name:   "Jason Walker"
+    email:  "jason.walker1@aa.com"
+  - id:     578233
+    github: "devin-fisher"
+    name:   "Devin Fisher"
+    email:  "devin.fisher@evernym.com"
+  - id:     10748272
+    github: "devsatishm"
+    name:   "Satish Malireddi"
+    email:  "dev.satishm@gmail.com"
+  - id:     6930518
+    github: "dexhunter"
+    name:   "Dixing (Dex) Xu"
+    email:  "dixingxu@gmail.com"
+  - id:     2208904
+    github: "dhh1128"
+    name:   "Daniel Hardman"
+    email:  "daniel.hardman@gmail.com"
+  - id:     5017470
+    github: "dhuseby"
+    name:   "Dave Huseby"
+    email:  null
+  - id:     770433
+    github: "diegomasini"
+    name:   "Diego Masini"
+    email:  null
+  - id:     10915817
+    github: "dnewh"
+    name:   null
+    email:  null
+  - id:     17034559
+    github: "dongmingh"
+    name:   null
+    email:  null
+  - id:     2303377
+    github: "dongwangdw"
+    name:   "Wang Dong"
+    email:  "xdragon007@gmail.com"
+  - id:     7177088
+    github: "dpdornseifer"
+    name:   "David Dornseifer"
+    email:  null
+  - id:     27690938
+    github: "dplumb94"
+    name:   null
+    email:  null
+  - id:     9211
+    github: "dubek"
+    name:   "Dov Murik"
+    email:  null
+  - id:     16805758
+    github: "dubovitskaya"
+    name:   "Maria Dubovitskaya"
+    email:  "maria@dfinity.org"
+  - id:     17401538
+    github: "eadventurous"
+    name:   "Egor Ivkov"
+    email:  "e.o.ivkov@gmail.com"
+  - id:     4229615
+    github: "edwardmack"
+    name:   "Edward Mack"
+    email:  null
+  - id:     8815821
+    github: "ekovalev"
+    name:   null
+    email:  null
+  - id:     14094978
+    github: "eloaverona"
+    name:   null
+    email:  null
+  - id:     35696678
+    github: "erin-hughes"
+    name:   null
+    email:  null
+  - id:     1801689
+    github: "esplinr"
+    name:   "Richard Esplin"
+    email:  "richard-oss@esplins.org"
+  - id:     29760017
+    github: "evernym-ci"
+    name:   null
+    email:  null
+  - id:     20577516
+    github: "evernym-gocd"
+    name:   null
+    email:  null
+  - id:     2322270
+    github: "feihujiang"
+    name:   "FeihuJiang(FlyingTiger)"
+    email:  null
+  - id:     19859799
+    github: "fqutishat"
+    name:   "Firas Qutishat"
+    email:  "firas.qutishat@securekey.com"
+  - id:     13453228
+    github: "gbarcomu"
+    name:   "Guillermo"
+    email:  "gbarcomu@gmail.com"
+  - id:     49996957
+    github: "genasmorgan"
+    name:   null
+    email:  null
+  - id:     18242450
+    github: "gennadylaventman"
+    name:   "Gennady Laventman"
+    email:  null
+  - id:     367132
+    github: "ghaskins"
+    name:   "Gregory Haskins"
+    email:  "greg@manetu.com"
+  - id:     4634408
+    github: "glowkey"
+    name:   null
+    email:  null
+  - id:     46226864
+    github: "gmhartley53"
+    name:   null
+    email:  null
+  - id:     12613821
+    github: "gregdhill"
+    name:   "Greg Hill"
+    email:  "gregorydhill@outlook.com"
+  - id:     214870
+    github: "grkvlt"
+    name:   "Andrew Donald Kennedy"
+    email:  "andrew@cloudsoft.io"
+  - id:     3359136
+    github: "guoger"
+    name:   "Jay Guo"
+    email:  "guojiannan1101@gmail.com"
+  - id:     20172739
+    github: "harrisob"
+    name:   null
+    email:  null
+  - id:     16846129
+    github: "hartm"
+    name:   null
+    email:  null
+  - id:     40789053
+    github: "heatherlp"
+    name:   null
+    email:  null
+  - id:     64429096
+    github: "helengarno"
+    name:   "Helen Garneau"
+    email:  null
+  - id:     57513505
+    github: "hlfdev-azp"
+    name:   "Hyperledger Bot"
+    email:  "hlfdev.azp@gmail.com"
+  - id:     5635032
+    github: "humb1t"
+    name:   "Nikita Puzankov"
+    email:  "humb1t@yandex.ru"
+  - id:     29129598
+    github: "hyperledger-ci"
+    name:   null
+    email:  null
+  - id:     19674487
+    github: "hyperledger-github"
+    name:   null
+    email:  null
+  - id:     28738893
+    github: "hyperledger-jira"
+    name:   null
+    email:  null
+  - id:     22083325
+    github: "i1i1"
+    name:   "Ivan"
+    email:  "vanyarybin1@live.ru"
+  - id:     1852309
+    github: "ianco"
+    name:   "Ian Costanzo"
+    email:  "iancostanzo@gmail.com"
+  - id:     57529355
+    github: "iceseer"
+    name:   "Alexander Lednev"
+    email:  null
+  - id:     36847043
+    github: "igor-egorov"
+    name:   "Igor Egorov"
+    email:  "igor@soramitsu.co.jp"
+  - id:     9802500
+    github: "iikirilov"
+    name:   "Ivaylo Kirilov"
+    email:  "iikirilov@gmail.com"
+  - id:     12245269
+    github: "ineffectualproperty"
+    name:   "Kelly Olson"
+    email:  null
+  - id:     3128348
+    github: "ionagamed"
+    name:   "Leonid Lygin"
+    email:  "ionagamed@gmail.com"
+  - id:     1891293
+    github: "jadhavajay"
+    name:   "Ajay Jadhav"
+    email:  null
+  - id:     56861721
+    github: "jagpreetsinghsasan"
+    name:   "Jagpreet Singh Sasan"
+    email:  null
+  - id:     676169
+    github: "jakubkoci"
+    name:   null
+    email:  null
+  - id:     57624267
+    github: "jeffthomas2000"
+    name:   "JEFF THOMAS"
+    email:  null
+  - id:     909467
+    github: "jframe"
+    name:   "Jason Frame"
+    email:  null
+  - id:     14979848
+    github: "jiahaoc1993"
+    name:   "Luke Chen"
+    email:  "jiahaoc@vmware.com"
+  - id:     26771644
+    github: "joealewine"
+    name:   "joealewine"
+    email:  "Joe.Alewine@ibm.com"
+  - id:     645344
+    github: "johncallahan"
+    name:   null
+    email:  null
+  - id:     33758641
+    github: "jonathan-m-hamilton"
+    name:   "Jonathan Hamilton"
+    email:  null
+  - id:     78140052
+    github: "jordigiam"
+    name:   "Jordi Giron"
+    email:  null
+  - id:     3722503
+    github: "joshuafernandes"
+    name:   "Joshua Fernandes"
+    email:  null
+  - id:     5072859
+    github: "jovfer"
+    name:   "Sergey Minaev"
+    email:  "sergey.minaev@dsr-corporation.com"
+  - id:     5748777
+    github: "jsmitchell"
+    name:   "James Mitchell"
+    email:  "mitchell@bitwise.io"
+  - id:     3535067
+    github: "jt-nti"
+    name:   "James Taylor"
+    email:  null
+  - id:     7431583
+    github: "jyellick"
+    name:   "Jason Yellick"
+    email:  "jyellick@us.ibm.com"
+  - id:     9370151
+    github: "kamilsa"
+    name:   null
+    email:  null
+  - id:     18397186
+    github: "karimStekelenburg"
+    name:   null
+    email:  null
+  - id:     19772501
+    github: "karthikamurthy"
+    name:   "Karthikamurthy"
+    email:  "karthika.murthy@intel.com"
+  - id:     14876848
+    github: "kchristidis"
+    name:   "Kostas Christidis"
+    email:  null
+  - id:     23125059
+    github: "kdenhartog"
+    name:   "Kyle Den Hartog"
+    email:  null
+  - id:     20474355
+    github: "kdimak"
+    name:   "Dmitriy Kinoshenko"
+    email:  null
+  - id:     1140797
+    github: "kidrecursive"
+    name:   "Chris Wilhite"
+    email:  null
+  - id:     9364584
+    github: "kikoncuo"
+    name:   "Enrique Alcázar Garzás"
+    email:  "e.alcazar.garzas@accenture.com"
+  - id:     12592891
+    github: "kj3104"
+    name:   "Satoshi Kaji"
+    email:  null
+  - id:     26562
+    github: "knibals"
+    name:   "Oumar Fall"
+    email:  "knibals@hotmail.com"
+  - id:     20422884
+    github: "knkski"
+    name:   "Kenneth Koski"
+    email:  null
+  - id:     8917872
+    github: "kobaken0029"
+    name:   "kobaken"
+    email:  null
+  - id:     25884155
+    github: "kogeler"
+    name:   "kogeler"
+    email:  null
+  - id:     15633758
+    github: "krw910"
+    name:   null
+    email:  null
+  - id:     445745
+    github: "kthblmfld"
+    name:   "Keith Bloomfield"
+    email:  "kthblmfld@gmail.com"
+  - id:     47349143
+    github: "kuvaldini"
+    name:   null
+    email:  null
+  - id:     5658339
+    github: "l4l"
+    name:   "Kitsu"
+    email:  "mail@kitsu.me"
+  - id:     null
+    github: null
+    name:   null
+    email:  null
+  - id:     14347159
+    github: "lebdron"
+    name:   "Andrei Lebedev"
+    email:  null
+  - id:     6464618
+    github: "lehors"
+    name:   "Arnaud J Le Hors"
+    email:  "lehors@us.ibm.com"
+  - id:     33546098
+    github: "lesleyannjordan"
+    name:   "LAJ"
+    email:  null
+  - id:     17450713
+    github: "liam-grace"
+    name:   "Liam Grace"
+    email:  null
+  - id:     9400927
+    github: "lindluni"
+    name:   "Brett Logan"
+    email:  "lindluni@github.com"
+  - id:     1943243
+    github: "litong01"
+    name:   "Tong Li"
+    email:  null
+  - id:     2019896
+    github: "llorllale"
+    name:   "George Aristy"
+    email:  "george.aristy@gmail.com"
+  - id:     663101
+    github: "ltseeley"
+    name:   "Logan Seeley"
+    email:  "ltseeley@gmail.com"
+  - id:     1766440
+    github: "lucassaldanha"
+    name:   "Lucas Saldanha"
+    email:  null
+  - id:     44480338
+    github: "lynnbendixsen"
+    name:   "Lynn Bendixsen"
+    email:  "lynn.bendixsen@gmail.com"
+  - id:     180035
+    github: "m00sey"
+    name:   "Kevin Griffin"
+    email:  null
+  - id:     51462259
+    github: "mac-arrap"
+    name:   "Cam Parra"
+    email:  null
+  - id:     2627919
+    github: "macfarla"
+    name:   "Sally MacFarlane"
+    email:  null
+  - id:     14808090
+    github: "manish-sethi"
+    name:   "Manish Sethi"
+    email:  "manish.sethi@gmail.com"
+  - id:     9131847
+    github: "manju956"
+    name:   "Manjunath A C"
+    email:  "manjunath.ac956@gmail.com"
+  - id:     20458059
+    github: "manudrijvers"
+    name:   "Manu Drijvers"
+    email:  null
+  - id:     36909937
+    github: "mark-terry"
+    name:   null
+    email:  null
+  - id:     5595790
+    github: "mastersingh24"
+    name:   "Gari Singh"
+    email:  "gari.r.singh@gmail.com"
+  - id:     26581503
+    github: "matkt"
+    name:   null
+    email:  null
+  - id:     52470716
+    github: "matt-raffel-kiva"
+    name:   "Matt"
+    email:  null
+  - id:     38053407
+    github: "mattraffel"
+    name:   "mattraffel"
+    email:  null
+  - id:     658601
+    github: "mbaxter"
+    name:   null
+    email:  null
+  - id:     6673453
+    github: "mbwhite"
+    name:   "Matthew B White"
+    email:  null
+  - id:     18294113
+    github: "mfford"
+    name:   "Mark Ford"
+    email:  "mfford@bitwise.io"
+  - id:     12089963
+    github: "mhailstone"
+    name:   "Matthew Hailstone"
+    email:  null
+  - id:     22651660
+    github: "michaeldboyd"
+    name:   "Michael Boyd"
+    email:  "michaeldavisboyd@gmail.com"
+  - id:     29070231
+    github: "mikaelaTar"
+    name:   "Mikaela Tarkocheva"
+    email:  "mikaelatark@gmail.com"
+  - id:     378508
+    github: "mikekebert"
+    name:   "Mike Ebert"
+    email:  null
+  - id:     717879
+    github: "mikelodder7"
+    name:   "Michael Lodder"
+    email:  "redmike7@gmail.com"
+  - id:     11699479
+    github: "mirgee"
+    name:   "Miroslav Kovar"
+    email:  "miroslavkovar@protonmail.com"
+  - id:     7398917
+    github: "mkdolan"
+    name:   "Mike Dolan"
+    email:  null
+  - id:     65468927
+    github: "mmanchkin"
+    name:   null
+    email:  null
+  - id:     9750068
+    github: "modbrin"
+    name:   "Maxim Surkov"
+    email:  "modbrin@live.com"
+  - id:     36872573
+    github: "mohamadsolouki"
+    name:   "EmSad"
+    email:  null
+  - id:     14936566
+    github: "mtn217"
+    name:   "Michael Nguyen"
+    email:  "michael.nguyen79@t-mobile.com"
+  - id:     20230557
+    github: "mtnieto"
+    name:   "María Teresa Nieto"
+    email:  null
+  - id:     14361488
+    github: "muralisrini"
+    name:   null
+    email:  null
+  - id:     7502801
+    github: "muratovv"
+    name:   "Fedor Muratov"
+    email:  null
+  - id:     6992239
+    github: "n1zyz"
+    name:   "Mark Wagner"
+    email:  "mwagner@redhat.com"
+  - id:     15850888
+    github: "nadiabahrami"
+    name:   "Nadia Bahrami"
+    email:  null
+  - id:     923654
+    github: "nage"
+    name:   null
+    email:  null
+  - id:     43688667
+    github: "naonishijima"
+    name:   "nao"
+    email:  "nao.nishijima.xt@hitachi.com"
+  - id:     10833935
+    github: "nathalie-ckc"
+    name:   "Nathalie Chan King Choy"
+    email:  "nathalie-ckc@kestrel-omnitech.com"
+  - id:     799608
+    github: "nekia"
+    name:   "Atsushin"
+    email:  "nekiaiken@gmail.com"
+  - id:     11061973
+    github: "nfrunza"
+    name:   "Nik Frunza"
+    email:  "nfrunza@gmail.com"
+  - id:     4440345
+    github: "nhartner"
+    name:   null
+    email:  null
+  - id:     378762
+    github: "nhoriguchi"
+    name:   "Naoya Horiguchi"
+    email:  null
+  - id:     25748894
+    github: "nick-drozd"
+    name:   "Nick Drozd"
+    email:  null
+  - id:     31096144
+    github: "nicolapaoli"
+    name:   "Nicola Paoli"
+    email:  null
+  - id:     15640392
+    github: "nikhil550"
+    name:   null
+    email:  null
+  - id:     36721948
+    github: "nishishita-satoshi"
+    name:   "Satoshi Nishishita"
+    email:  null
+  - id:     8394544
+    github: "nklincoln"
+    name:   "Nick Lincoln"
+    email:  "nkl199@yahoo.co.uk"
+  - id:     19825873
+    github: "nkramer44"
+    name:   null
+    email:  "noah.ph.kramer@gmail.com"
+  - id:     44370861
+    github: "nodlesh"
+    name:   "Sheldon Regular"
+    email:  null
+  - id:     42742030
+    github: "ntsbs"
+    name:   "Sebastian Bickerle"
+    email:  null
+  - id:     26755865
+    github: "ommish"
+    name:   "Ommi Shimizu"
+    email:  "oshimizu15@gmail.com"
+  - id:     36892852
+    github: "pamandrejko"
+    name:   null
+    email:  null
+  - id:     34518033
+    github: "pankajgoyal2"
+    name:   "Pankaj Goyal"
+    email:  null
+  - id:     40787703
+    github: "panyu4"
+    name:   null
+    email:  null
+  - id:     290941
+    github: "peacekeeper"
+    name:   "Markus Sabadello"
+    email:  "markus@danubetech.com"
+  - id:     10084974
+    github: "pegartillo95"
+    name:   null
+    email:  null
+  - id:     1583231
+    github: "petermetz"
+    name:   "Peter Somogyvari"
+    email:  null
+  - id:     282233
+    github: "peterschwarz"
+    name:   "Peter Schwarz"
+    email:  "pschwarz@bitwise.io"
+  - id:     2425028
+    github: "pfeairheller"
+    name:   "Philip Feairheller"
+    email:  "pfeairheller@gmail.com"
+  - id:     5741141
+    github: "phymbert"
+    name:   "Pierrick Hymbert"
+    email:  "pierrick.hymbert@gmail.com"
+  - id:     16143240
+    github: "pinges"
+    name:   "Stefan Pingel"
+    email:  null
+  - id:     19329164
+    github: "popandov"
+    name:   "Pop-Andov Dule"
+    email:  "dule@codechem.com"
+  - id:     37158202
+    github: "rain-on"
+    name:   "Trent Mohay"
+    email:  "trent.mohay@consensys.net"
+  - id:     16324016
+    github: "rajeshkalaria80"
+    name:   "Rajesh Kalaria"
+    email:  "rajesh.kalaria@gmail.com"
+  - id:     38732323
+    github: "ravenolf"
+    name:   "Sofiane Benahmed"
+    email:  null
+  - id:     52193049
+    github: "ravinayag"
+    name:   null
+    email:  null
+  - id:     20493746
+    github: "rberg2"
+    name:   "Richard Berg"
+    email:  null
+  - id:     829790
+    github: "rbuysse"
+    name:   "Ryan Beck-Buysse"
+    email:  null
+  - id:     33634093
+    github: "riki95"
+    name:   "Riccardo"
+    email:  null
+  - id:     50765419
+    github: "rkharisov"
+    name:   null
+    email:  null
+  - id:     261271
+    github: "rojotek"
+    name:   "Rob Dawson"
+    email:  "robert@rojotek.com"
+  - id:     10111768
+    github: "rolsonquadras"
+    name:   "Rolson Quadras"
+    email:  "rolson.quadras@gmail.com"
+  - id:     37328891
+    github: "rranjan3"
+    name:   null
+    email:  null
+  - id:     29335714
+    github: "rst77"
+    name:   "Renato Teixeira"
+    email:  null
+  - id:     20097359
+    github: "saad-karim"
+    name:   "Saad Karim"
+    email:  "me@saadkarim.com"
+  - id:     26148561
+    github: "sandrask"
+    name:   "Sandra Vrtikapa"
+    email:  "sandra.vrtikapa@securekey.com"
+  - id:     323659
+    github: "sappenin"
+    name:   "David Fuelling"
+    email:  null
+  - id:     6259384
+    github: "satellitex"
+    name:   "satellitex"
+    email:  null
+  - id:     463817
+    github: "satomicchy"
+    name:   "satomicchy"
+    email:  null
+  - id:     58238931
+    github: "satota2"
+    name:   "Tatsuya Sato"
+    email:  "tatsuya.sato.so@hitachi.com"
+  - id:     25067172
+    github: "sawtooth-build"
+    name:   null
+    email:  null
+  - id:     20058097
+    github: "scealiontach"
+    name:   "Kevin T O'Donnell"
+    email:  "kevin@blockchaintp.com"
+  - id:     816900
+    github: "seanyoung"
+    name:   "Sean Young"
+    email:  "sean@mess.org"
+  - id:     19495774
+    github: "seware"
+    name:   "Stephen Ware"
+    email:  "stephen.e.ware@intel.com"
+  - id:     27746182
+    github: "sfuji822"
+    name:   "Shingo Fujimoto"
+    email:  "shingo_fujimoto@fujitsu.com"
+  - id:     8121127
+    github: "shannynalayna"
+    name:   "Shannyn"
+    email:  null
+  - id:     38109
+    github: "shemnon"
+    name:   "Danno Ferrin"
+    email:  "danno.ferrin@gmail.com"
+  - id:     655714
+    github: "shimos"
+    name:   "Taku Shimosawa"
+    email:  "taku.shimosawa@hal.hitachi.com"
+  - id:     593082
+    github: "siburu"
+    name:   "YOSHIDA Masanori"
+    email:  null
+  - id:     99715
+    github: "silasdavis"
+    name:   "Silas Davis"
+    email:  "silas@monax.io"
+  - id:     5670522
+    github: "skhoroshavin"
+    name:   "Sergey Khoroshavin"
+    email:  null
+  - id:     9336556
+    github: "sklump"
+    name:   "Stephen Klump"
+    email:  "stephen.klump@becker-carroll.com"
+  - id:     20505251
+    github: "smblucker"
+    name:   "Sean Blucker"
+    email:  null
+  - id:     5666300
+    github: "smccown"
+    name:   "Steve McCown"
+    email:  null
+  - id:     9592001
+    github: "smithbk"
+    name:   "Keith Smith"
+    email:  "bksmith@us.ibm.com"
+  - id:     27997289
+    github: "sofiter"
+    name:   "sofiter"
+    email:  "sophia.terzi@gmail.com"
+  - id:     12339578
+    github: "soluchok"
+    name:   "Andrii Soluk"
+    email:  "isoluchok@gmail.com"
+  - id:     32125183
+    github: "sorabot"
+    name:   null
+    email:  null
+  - id:     42390046
+    github: "sovbot"
+    name:   "Sovbot"
+    email:  null
+  - id:     7118158
+    github: "sstone1"
+    name:   "Simon Stone"
+    email:  null
+  - id:     17688105
+    github: "stefashkaa"
+    name:   "Stefan Popov"
+    email:  null
+  - id:     13129967
+    github: "stone-ch"
+    name:   "Yang Cheng"
+    email:  "chengyang418@163.com"
+  - id:     525211
+    github: "sublimator"
+    name:   "Nicholas Dudfield"
+    email:  "ndudfield@gmail.com"
+  - id:     7150428
+    github: "sukalpomitra"
+    name:   "Sukalpo Mitra"
+    email:  "sukalpomitra@gmail.com"
+  - id:     20618591
+    github: "suryalnvs"
+    name:   "Naga Surya Lanka"
+    email:  "suryalnvs@gmail.com"
+  - id:     1018050
+    github: "swcurran"
+    name:   "Stephen Curran"
+    email:  null
+  - id:     1980422
+    github: "swetharepakula"
+    name:   "Swetha Repakula"
+    email:  null
+  - id:     678569
+    github: "swinslow"
+    name:   "Steve Winslow"
+    email:  "steve@swinslow.net"
+  - id:     4517909
+    github: "sykesm"
+    name:   "Matthew Sykes"
+    email:  "matthew.sykes@gmail.com"
+  - id:     20982317
+    github: "takemiyamakoto"
+    name:   "武宮誠"
+    email:  null
+  - id:     57385780
+    github: "takeutak"
+    name:   "Takuma Takeuchi"
+    email:  null
+  - id:     3335245
+    github: "talltree"
+    name:   "Drummond Reed"
+    email:  null
+  - id:     1385309
+    github: "theotherian"
+    name:   null
+    email:  null
+  - id:     6887243
+    github: "tim-d-blue"
+    name:   "Tim Dunlevy"
+    email:  "tim.dunlevy@pokitdok.com"
+  - id:     9390255
+    github: "timbeiko"
+    name:   "Tim Beiko"
+    email:  "t.beiko23@gmail.com"
+  - id:     5951734
+    github: "tkuhrt"
+    name:   "Tracy Kuhrt"
+    email:  null
+  - id:     22016542
+    github: "tkyonezu"
+    name:   "Sleepy Senzu"
+    email:  "tkyonezu@gmail.com"
+  - id:     1280118
+    github: "tmarkovski"
+    name:   "Tomislav Markovski"
+    email:  "tmarkovski@gmail.com"
+  - id:     38713998
+    github: "tomo25"
+    name:   "Tomo"
+    email:  null
+  - id:     15972525
+    github: "tplooker"
+    name:   "Tobias Looker"
+    email:  "tobias.looker@mattr.global"
+  - id:     1906596
+    github: "troyronda"
+    name:   "Troy Ronda"
+    email:  "troy@troyronda.com"
+  - id:     11680949
+    github: "turuslan"
+    name:   "Ruslan Tushov"
+    email:  null
+  - id:     61970
+    github: "twshelton"
+    name:   "Thomas Shelton"
+    email:  "twshelton@hrtoolbox.com"
+  - id:     715420
+    github: "unklayman"
+    name:   null
+    email:  null
+  - id:     8219560
+    github: "upamune"
+    name:   "Yu SERIZAWA"
+    email:  null
+  - id:     669527
+    github: "usmansaleem"
+    name:   "Usman Saleem"
+    email:  "usman@usmans.info"
+  - id:     6963101
+    github: "vadimreutskiy"
+    name:   "Vadim Reutskiy"
+    email:  "reutskiy.vadim@gmail.com"
+  - id:     2374712
+    github: "vaporos"
+    name:   "Shawn T Amundson"
+    email:  null
+  - id:     32909826
+    github: "vchinoy-da"
+    name:   "Vinita"
+    email:  null
+  - id:     16944801
+    github: "vimmerru"
+    name:   "Vyacheslav Gudkov"
+    email:  null
+  - id:     4130345
+    github: "vipinsun"
+    name:   "Vipin Bharathan"
+    email:  null
+  - id:     1575126
+    github: "vmarkushin"
+    name:   "Vladislav"
+    email:  "negigic@gmail.com"
+  - id:     20172653
+    github: "wlahti"
+    name:   "Will Lahti"
+    email:  "will.lahti@gmail.com"
+  - id:     750115
+    github: "x3medima17"
+    name:   "Dumitru"
+    email:  null
+  - id:     49738514
+    github: "xieruitao-h3c"
+    name:   "Xie ruitao"
+    email:  null
+  - id:     74700
+    github: "xspeedcruiser"
+    name:   null
+    email:  null
+  - id:     7521849
+    github: "yacovm"
+    name:   null
+    email:  null
+  - id:     1920564
+    github: "yeasy"
+    name:   "Baohua Yang"
+    email:  null
+  - id:     57741286
+    github: "yukiknd"
+    name:   "Yuki Kondo"
+    email:  null
+  - id:     10827209
+    github: "zhaochy1990"
+    name:   "Zhao Chaoyi"
+    email:  "zhaochy_2015@hotmail.com"
